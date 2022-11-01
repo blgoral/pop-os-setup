@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt install -y neofetch dotnet6 nodejs npm python3 software-properties-common gnome-tweaks
+sudo apt install -y neofetch dotnet6 nodejs npm python3 php php-xml php-mbstring php-intl software-properties-common gnome-tweaks
 
 # install mono
 # sudo apt install -y gnupg ca-certificates
